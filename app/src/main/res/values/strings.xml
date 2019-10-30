@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAddingMachinePart2</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_addend1_caption">Addend 1</string>
+    <string name="str_addend2_caption">Addend 2</string>
+    <string name="str_result_caption">Result</string>
+    <string name="str_add_caption">ADD</string>
+</resources>
